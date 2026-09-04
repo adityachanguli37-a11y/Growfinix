@@ -149,4 +149,4 @@ python Task5_Power_Consumption_Forecasting/power_consumption_forecasting.py
 
 ## 👤 Author
 
-Developed by **[Aditya Changuli](https://github.com/adityachanguli37-a11y)** as part of the **Growfinix Internship**.
+Developed by **[Aditya C S](https://github.com/adityachanguli37-a11y)** as part of the **Growfinix Internship**.
